@@ -16,7 +16,10 @@
     "react-native-paper": "^4.12.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@expo/vector-icons": "^13.0.0",
+    "expo-app-loading": "^2.1.0",
+    "expo-font": "^10.2.0"
   },
   "private": true
 }
