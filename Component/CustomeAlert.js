@@ -5,7 +5,7 @@ import {useFonts} from 'expo-font';
 
 function CustomeAlert(props){
     CustomeAlert = (bool,data) => {
-        props.chageModalVisible(bool);
+        props.changeModalVisible(bool);
         props.setData(data);
     }
 
